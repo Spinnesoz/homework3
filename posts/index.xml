@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Бубнова Никиты - Hugo Сайт</title>
+    <link>http://localhost:1313/homework-03/posts/</link>
+    <description>Recent content in Posts on Бубнова Никиты - Hugo Сайт</description>
+    <generator>Hugo -- 0.152.2</generator>
+    <language>ru-ru</language>
+    <lastBuildDate>Sun, 14 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/homework-03/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Обо мне</title>
+      <link>http://localhost:1313/homework-03/posts/project-update/</link>
+      <pubDate>Sun, 14 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homework-03/posts/project-update/</guid>
+      <description>&lt;h1 id=&#34;привет&#34;&gt;Привет!&lt;/h1&gt;
+&lt;p&gt;Меня зовут Бубнов Никита. Это мой учебный проект.&lt;/p&gt;
+&lt;p&gt;Я учусь создавать сайты, используя:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML и CSS&lt;/li&gt;
+&lt;li&gt;Hugo&lt;/li&gt;
+&lt;li&gt;GitHub&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Здесь я буду выкладывать свои успехи.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Мой первый пост на Hugo</title>
+      <link>http://localhost:1313/homework-03/posts/first-post/</link>
+      <pubDate>Tue, 20 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homework-03/posts/first-post/</guid>
+      <description>Впечатления от использования статического генератора сайтов</description>
+    </item>
+  </channel>
+</rss>
